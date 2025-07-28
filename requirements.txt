@@ -1,0 +1,11 @@
+streamlit
+faiss-cpu
+sentence-transformers
+PyMuPDF
+pandas
+openpyxl
+torch
+transformers
+pydub
+audiorecorder
+requests
